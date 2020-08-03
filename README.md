@@ -16,7 +16,10 @@ Purpose is to gather data during June and December of Oahu and determine whether
 ## Resources
 - Software: Python 3.6.1, Visual Studio Code, 1.38.1, Jupyter Notebook 6.0.3
 ## Challenge
+-   Key statistical data about the month of June.
+<img src="https://github.com/vrod237/surfs_up/blob/master/june.png" width="600">
 
-    1. Identify key statistical data in June across all of the stations and years using the describe() function.
-    2. Identify key statistical data in December across all stations and years using the describe() function.
-    3. Share your findings in the Jupyter Notebook with a few sentences describing the key differences in weather between June and December and 2-3 recommendations for further analysis.
+-   Key statistical data about the month of December.
+<img src="https://github.com/vrod237/surfs_up/blob/master/dec.png" width="600">
+
+-   Share your findings in the Jupyter Notebook with a few sentences describing the key differences in weather between June and December and 2-3 recommendations for further analysis.
