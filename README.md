@@ -22,21 +22,21 @@ Purpose is to gather data during June and December of Oahu and determine whether
 -   Key statistical data for the month of December.
 <img src="https://github.com/vrod237/surfs_up/blob/master/dec.png" width="225">
 
-#### Temperature Review
-- June: 
+### Temperature Review
+#### June: 
 Average temperature in June was 75 degrees with the max temperature being 85 degrees, lowest being 64 degrees and with a standard deviation of 3.26 degrees.
 
-- December: 
+#### December: 
 Average temperature in December was 71 degrees with the max temperature being 83 degrees, lowest being 56 degrees and with a standard deviation of 3.75 degrees.
 
-#### Precipitation Review
-- June: 
+### Precipitation Review
+#### June: 
 Average rainfall per day in June was 0.14 inches with the highest being 4.43 inches, lowest being 0 inches and with a standard deviation of 0.34 inches.
 
-- December: 
+#### December: 
 Average rainfall per day in December was 0.22 inches with the highest being 6.42 inches, lowest being 0 inches and with a standard deviation of 0.54 inches.
 
-#### Review
+### Review
 With only a difference of 4 degrees and 0.08 inches of rain from June to December. It's safe to say that we can't have a true prediction. Personally, I would still go to the beach and have some fun in June and December if temperature and precipitation remained the same, and I know a good chunk of people that would feel the same. 
 
 #### Recommendations
