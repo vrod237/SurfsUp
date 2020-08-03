@@ -16,10 +16,10 @@ Purpose is to gather data during June and December of Oahu and determine whether
 ## Resources
 - Software: Python 3.6.1, Visual Studio Code, 1.38.1, Jupyter Notebook 6.0.3
 ## Challenge
--   Key statistical data about the month of June.
-<img src="https://github.com/vrod237/surfs_up/blob/master/june.png" width="300">
+-   Key statistical data for the month of June.
+<img src="https://github.com/vrod237/surfs_up/blob/master/june.png" width="250">
 
--   Key statistical data about the month of December.
-<img src="https://github.com/vrod237/surfs_up/blob/master/dec.png" width="300">
+-   Key statistical data for the month of December.
+<img src="https://github.com/vrod237/surfs_up/blob/master/dec.png" width="250">
 
 -   Share your findings in the Jupyter Notebook with a few sentences describing the key differences in weather between June and December and 2-3 recommendations for further analysis.
