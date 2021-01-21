@@ -1,6 +1,9 @@
-# surfs_up
-## Project Overview
+# Surfs Up Project
+
+## Purpose
 Purpose is to gather data during June and December of Oahu and determine whether the seasons could affect the surf and ice cream shop business. Specifically, are there certain times of the year when the business might be slower, or the type of customer could be different?
+
+## Project Overview
 
 - Determine key statistical data about the month of June.
 
